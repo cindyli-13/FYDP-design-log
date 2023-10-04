@@ -1,2 +1,2 @@
-# FYDP-design-log
-Design log to keep track of FYDP progress
+# Project Dynamic Ankle Brace
+Design log to keep track of our FYDP progress
