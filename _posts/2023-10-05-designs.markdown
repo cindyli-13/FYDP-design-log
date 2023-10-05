@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Alternative Design Solutions"
+date:   2023-10-05 17:18:00 -0400
+categories: jekyll update
+---
+
+We brainstormed 2 viable design solutions to the ankle brace problem (and 1 non-viable solution).
+
+1. Seatbelt mechanism (binary tension / no tension) with gear ratcheting mechanism
+2. Seatbelt mechanism (binary tension / no tension) with linear rack / pinion ratcheting mechanism
+3. Attach drone to the bottom of foot
