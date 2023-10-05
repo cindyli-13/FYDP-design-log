@@ -1,2 +1,1 @@
-# Project Dynamic Ankle Brace
-Design log to keep track of our FYDP progress
+View site at: https://cindyli-13.github.io/FYDP-design-log/

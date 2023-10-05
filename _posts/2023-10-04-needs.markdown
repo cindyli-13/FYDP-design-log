@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Needs Statement"
+date:   2023-10-04 19:55:09 -0400
+categories: jekyll update
+---
+
+We did some background research on the ankle injury design space, which included speaking with Robert Burns, a Kinesiology instructor and Campus Physio representative at the University of Waterloo. Here are some of the main takeaways:
+
+- During participation in sports, the ankle is the most injured part of the body, with more than majority of the injury being inversion sprain.
+- Weakening of tendons after healing from ankle injury can lead to easier re-injury of ankle.
+- From a recovery standpoint, it is important to get the ankle back to moving as soon as possible to prevent deterioration of the ankle.
+- Existing ankle braces are good at providing stability to the ankle, but they also limit freedom of motion, which is a drawback for active rehab standpoint.
+
+This leads us to our needs statement:
+
+> There is a need for an ankle support mechanism that supports the weakened tendons while still allowing for functional movements of the ankle.
+
+In particular, this outlines an ankle rehab scheme that incentivizes return to physical activity after an ankle injury while reducing risk of re-injury. The solution should be applicable to athletic activities and both offer stabilizing support to the ankle while still providing freedom of motion.
