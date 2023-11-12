@@ -4,3 +4,5 @@
 
 layout: home
 ---
+
+Welcome to the design log for Project Dynamic Ankle Brace, a University of Waterloo Mechatronics Engineering capstone project. See project updates in the blog posts below:

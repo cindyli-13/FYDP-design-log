@@ -9,11 +9,17 @@ For compute we want to take advantage of the Wi-Fi and Bluetooth capabilities of
 
 The ESP32-S3-WROOM-2 module includes onboard antenna, flash, and SRAM, which can be easily integrated into our custom PCB design.
 
-![esp32-s3-wroom-2]({{site.baseurl}}/assets/images/ESP32-S3-WROOM-2-N16R8V_SPL.png)
+<p style="text-align: center;">
+<img src="{{site.baseurl}}/assets/images/ESP32-S3-WROOM-2-N16R8V_SPL.png" alt="drawing" width="200"/><br>
+<em>ESP32-S3-WROOM-2 module</em>
+</p><br>
 
 For development, we will use the ESP32-S3-DevKitC-1 which embeds the ESP32-S3-WROOM-2 module.
 
-![esp32-s3-devkitc-1]({{site.baseurl}}/assets/images/esp32-s3-devkitc-1-v1-isometric.png)
+<p style="text-align: center;">
+<img src="{{site.baseurl}}/assets/images/esp32-s3-devkitc-1-v1-isometric.png" alt="drawing" width="400"/><br>
+<em>ESP32-S3-DevKitC-1 development board</em>
+</p><br>
 
 ### References
 - [ESP32-S3-WROOM-2 Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-2_datasheet_en.pdf)

@@ -15,3 +15,8 @@ Further research into ankle inversion injury studies provided us with these guid
 > Athletes prone to reinjury after lateral ankle sprain may benefit from brace designs that allow for full sagittal range of motion but restrict only frontal plane motion. [[3]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6498751/)
 
 We just need to make our product to be better than BetterGuard's (call it the BettererGuard).
+
+<p style="text-align: center;">
+<img src="{{site.baseurl}}/assets/images/betterguard.png" alt="drawing" width="500"/><br>
+<em>The BetterGuard ankle brace</em>
+</p>
