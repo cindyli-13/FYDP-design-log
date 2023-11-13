@@ -5,8 +5,18 @@ date:   2023-10-05 17:18:00 -0400
 categories: jekyll update
 ---
 
-We brainstormed 2 viable design solutions to the ankle brace problem (and 1 non-viable solution).
+The goal of our ankle brace solution is to allow for freedom of motion of the foot during sporting activities but be able to provide the right ankle support when needed (for example, in the event of an ankle sprain). In it's default state, the brace should be loose enough on the foot that it provides full ankle mobility. The problem can be broken down into 2 main parts: 1) Sensing, and 2) Actuation.
+
+### Sensing
+
+We'll need some way of detecting when an ankle sprain is about to happen - this can likely be done with a sensing suite consisting of IMU/bend/force sensors to measure angular velocities, accelerations, and ankle position. The sensors will be mounted at appropriate locations on the foot to best detect the ankle inversion motion. Further characterization is required to determine the right sensors and mounting locations.
+
+### Actuation
+
+For actually stiffening the brace, we'll need a actuation method that, when triggered, prevents the ankle inversion motion from being carried out. To differentiate our solution from existing solutions in the market, we want the ability to customize when the brace triggers. To achieve this, we want to use an electrically controlled actuation method instead of a passive or purely mechanical method. We brainstormed 2 viable design solutions (and 1 non-viable solution):
 
 1. Seatbelt mechanism (binary tension / no tension) with gear ratcheting mechanism
 2. Seatbelt mechanism (binary tension / no tension) with linear rack / pinion ratcheting mechanism
 3. Attach drone to the bottom of foot
+
+The idea behind the seatbelt mechanism is that there's a cabled-pulley connected to the rest of the bracing system that can move freely until a latching mechanism is triggered, which locks the cable in place. This is similar to how a seatbelt locks when the car's acceleration exceeds a certain threshold.

@@ -5,4 +5,16 @@
 layout: home
 ---
 
-Welcome to the design log for Project Dynamic Ankle Brace, a University of Waterloo Mechatronics Engineering capstone project. See project updates in the blog posts below:
+<p style="text-align: center; font-size:140%;"><em>
+The ankle the is most commonly injured body part during sports, with ankle inversion sprains accounting for over 80% of all ankle injuries.
+</em><br><p>
+
+<p style="text-align: center; font-size:140%;"><em><br>
+Existing braces that provide enough protection to the ankle are often too stiff and limit the ankle's full range of motion.
+</em><br><p>
+
+<p style="text-align: center; font-size:140%;"><em><br>
+We are designing a smart brace solution to prevent ankle injury while still providing the freedom of motion needed during athletic activities.
+</em><br><p>
+
+<br><hr><br>

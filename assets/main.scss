@@ -1,0 +1,13 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-title::before {
+    content: url("{{site.baseurl}}/assets/images/FYDP_Logo.svg");
+    display: inline-block;
+    position: relative;
+    width: 70px;
+    top: 6px;
+}

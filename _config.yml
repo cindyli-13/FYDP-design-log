@@ -20,8 +20,9 @@
 
 title: Project Dynamic Ankle Brace
 description: >- # this means to ignore newlines until "baseurl:"
-  FYDP Design Log
+  Capstone Design Log
 url: https://cindyli-13.github.io # the base hostname & protocol for your site, e.g. http://example.com
+author: University of Waterloo, Mechatronics Engineering
 
 # Build settings
 theme: minima
