@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Preliminary Design Presentation"
+date:   2023-10-16 14:30:00 -0400
+categories: jekyll update
+---
+
+Today we gave our Preliminary Design Presentation (PDP) on our project proposal. We outlined our background studies, needs statement, constraints and criteria, patent research, alternative designs, design matrix, and project timeline.
+
+See our full PDP slide deck here:
+
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRFZRnUfJRvecAvYLZuOl3jtVE7pn3dmzHfIqueNM2HR1QzZvgXuNCNsDk7EQSP-7KTAeq9j5A-_6Bl/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
