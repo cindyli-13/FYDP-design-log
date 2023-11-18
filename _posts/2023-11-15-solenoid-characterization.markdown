@@ -12,7 +12,7 @@ We procured a [12V, 4mm stroke solenoid](https://www.adafruit.com/product/412) f
 <em>Small Push-Pull Solenoid - 12VDC</em>
 </p>
 
-Below is the characterization work done to verify if this solenoid can actually meet our 50ms system response time requirement.
+Below is the characterization work done to verify if this solenoid can actually meet our 40ms system response time requirement.
 
 ## Reaction Speed
 
