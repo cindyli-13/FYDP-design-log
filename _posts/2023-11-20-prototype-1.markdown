@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Prototype - Iteration 1"
+date:   2023-11-20 00:00:00 -0400
+categories: jekyll update
+---
+
+We 3D-printed iteration 1 of our mechanical prototype of the gear latching mechanism.
+
+<p style="text-align: center;">
+<img src="{{site.baseurl}}/assets/images/gear_prototype_1_cad.gif" alt="drawing" width="500"/><br>
+<em>CAD Animation of Prototype 1</em>
+</p>
+
+The cyan gear-shaft component spools the cable that connects to the rest of the bracing system so that when the ankle rotates, the cable spools and causes the gear to rotate.
+
+The red latch piece catches on to the gear teeth to hinder the spooling of the cable. It is spring-loaded so that the latch is kept in place in both the engaged and disengaged positions.
+
+Because this prototype is meant to be a proof of concept, it is made much bigger than what our final product will be.
+
+Here it is in action!
+
+<style>
+.column {
+    float: left;
+    width: 33%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+</style>
+
+<div class="row" style="text-align: center;">
+    <div class="column" style="text-align: center;">
+        <img src="{{site.baseurl}}/assets/images/gear_prototype_1_i.gif" alt="drawing" width="200" height="320"/><br>
+    </div>
+    <div class="column" style="text-align: center;">
+        <img src="{{site.baseurl}}/assets/images/gear_prototype_1_ii.gif" alt="drawing" width="200" height="320"/><br>
+    </div>
+    <div class="column" style="text-align: center;">
+        <img src="{{site.baseurl}}/assets/images/gear_prototype_1_iii.gif" alt="drawing" width="200" height="320"/><br>
+    </div>
+</div>
+
+
