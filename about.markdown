@@ -4,53 +4,6 @@ title: About
 permalink: /about/
 ---
 
-We are a team of four Mechatronics Engineering students at the University of Waterloo who each bring a different set of technical expertise to the project.
+Check out our slide deck on the breakdown of our project!
 
-<style>
-img {
-  border-radius: 50%;
-}
-
-.column {
-    float: left;
-    width: 25%;
-}
-
-.row:after {
-    content: "";
-    display: table;
-    clear: both;
-}
-</style>
-
-<br>
-<div class="row" style="text-align: center;">
-    <div class="column" style="text-align: center;">
-        <img src="{{site.baseurl}}/assets/images/aidan.jpg" alt="drawing" width="150" height="150"/><br><br>
-        <p>
-            <text style="font-size:120%;">Aidan Gratton</text><br>
-            <em style="font-size:80%;">Software Design</em>
-        </p>
-    </div>
-    <div class="column" style="text-align: center;">
-        <img src="{{site.baseurl}}/assets/images/asha.jpg" alt="drawing" width="150" height="150"/><br><br>
-        <p>
-            <text style="font-size:120%;">Asha Mills Emmett</text><br>
-            <em style="font-size:80%;">Mechanical Design</em>
-        </p>
-    </div>
-    <div class="column" style="text-align: center;">
-        <img src="{{site.baseurl}}/assets/images/kyle.jpeg" alt="drawing" width="150" height="150"/><br><br>
-        <p>
-            <text style="font-size:120%;">Kyle Hong</text><br>
-            <em style="font-size:80%;">Electrical Design</em>
-        </p>
-    </div>
-    <div class="column" style="text-align: center;">
-        <img src="{{site.baseurl}}/assets/images/cindy.jpg" alt="drawing" width="150" height="150"/><br><br>
-        <p>
-            <text style="font-size:120%;">Cindy Li</text><br>
-            <em style="font-size:80%;">Software Design</em>
-        </p>
-    </div>
-</div>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTYNv_tLLxnqNGX3PryDeibALlz8j9QhnJ25W9HzKZe-c_jnV9qi9bjHTXZlzmOtW07WCsxPx2QEPPK/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
