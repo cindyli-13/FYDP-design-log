@@ -7,6 +7,11 @@ categories: jekyll update
 
 The activity state machine is the main logic block that runs on the ESP32 microcontroller. It handles all the state logic for Calibrating, Idle, Active, and Actuated states. The state machine runs at a 1kHz loop to ensure a fast response time to IMU readings.
 
+<p style="text-align: center;">
+<img src="{{site.baseurl}}/assets/images/FYDP_State_Machine.png" alt="drawing" width="300"/><br><br>
+<em>Activity State Machine</em>
+</p><br>
+
 ### Calibrating
 This is the first state upon starting up the system. During calibration, the foot should be kept still for 3 seconds. The system collects sensor (accelerometer) data for 3 seconds which is used to determine the correct IMU orientations for inversion measurement. After calibration is complete, the system transitions to the Idle state.
 
