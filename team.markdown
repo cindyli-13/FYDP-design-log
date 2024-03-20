@@ -26,7 +26,7 @@ img {
 <br>
 <div class="row" style="text-align: center;">
     <div class="column" style="text-align: center;">
-        <img src="{{site.baseurl}}/assets/images/aidan.jpg" alt="drawing" width="150" height="150"/><br><br>
+        <img src="{{site.baseurl}}/assets/images/aidan.jpeg" alt="drawing" width="150" height="150"/><br><br>
         <p>
             <text style="font-size:120%;">Aidan Gratton</text><br>
             <em style="font-size:80%;">Software Design</em>
